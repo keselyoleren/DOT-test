@@ -67,10 +67,10 @@
 ```
 
 ## keterangan
-** ```src``` smua app dimasukkan ke dalam folder ini
-** ```helper``` berisi smua file pembantu
-** ```middleware``` berisi file untuk mnyamakan format reponse api
-** ```.env``` file untuk enviroment agar lebih mudah di gunakan oleh beberapa dev
+### ** ```src``` smua app dimasukkan ke dalam folder ini
+### ** ```helper``` berisi smua file pembantu
+### ** ```middleware``` berisi file untuk mnyamakan format reponse api
+### ** ```.env``` file untuk enviroment agar lebih mudah di gunakan oleh beberapa dev
 
 ## format api yang biasa saya gunakan
 ```
